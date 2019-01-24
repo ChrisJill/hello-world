@@ -1,2 +1,2 @@
 # hello-world
-First repository of my life
+First repository in my life
